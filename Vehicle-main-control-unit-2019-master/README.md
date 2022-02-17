@@ -10,6 +10,6 @@ This git contains the code for:
 
 2. A python script for extracting live data from the steering kit (or simple computer) and communicating with the main control unit microprocessor
 
-The following represents the final setup the we used for our project (can be modified with this git codes):
+The following represents the final set-up the we used for our project (it can be modified with our published git codes):
 
 <img width="277" alt="drive-by-wire-graph" src="https://user-images.githubusercontent.com/81683689/154458980-2b6ed4d5-1fe1-4d47-a923-b4f21e35f312.png">
